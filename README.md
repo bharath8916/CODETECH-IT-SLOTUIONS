@@ -12,7 +12,7 @@ MENTOR : Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 
-PROJECT :PREDICTIVE MODELING WITH LINEAR REGRESSION
+PROJECT :natural language processing (NLP) applications
 
 OBJECTIVE
 
