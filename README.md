@@ -61,3 +61,8 @@ Statsmodels: Offers detailed statistical modeling, including linear regression w
 Pandas: Useful for data manipulation and preparation.
 
 NumPy: Provides support for numerical operations, which are fundamental in regression analysis.
+
+Output 
+
+<img width="708" alt="Screenshot 2024-08-21 at 9 53 37 PM" src="https://github.com/user-attachments/assets/5109a5ac-5e7a-4646-9c86-96da979d6bde">
+
